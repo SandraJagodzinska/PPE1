@@ -1,4 +1,5 @@
 # Journal de bord du projet encadré
+<<<<<<< HEAD
 ## travail sur git cours n.2
 Premierement, j'ai créé un dossier plurital sur le desktop de mon ordinateur et j'ai créé un compte sur un site web Github.
 Après la mise à jour de mon OS vers MacOS 12, j'ai dû faire face à un bug qui m'empêchait d'utiliser git sur mon mac. Acune des commandes n'a fonctionné. La solution était simple, il fallait installer xcode toolkit. Pour cela j'ai utilisé une commande : xcode-select --install.
@@ -11,3 +12,5 @@ Pour ajouter des changements vers mon dépôt distant je vais utiliser "git push
 trolololo this is very funny what i m doing hihi
 kocham polske bye 
 #séance 3
+=======
+>>>>>>> cff7d3a (imdone)
