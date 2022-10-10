@@ -8,6 +8,3 @@ Ensuite, sur le site web Github j'ai créé un fichier "journal-de-bord.md".
 Puis, j'ai utilisé "git log" comme indiqué dans le consigne pour voir mon dernier commit. 
 Maintenant, je modifie mon fichier "journal-de-bord". En utilisant "git status", j'ai vérifié que git détecte bien des changements.
 Pour ajouter des changements vers mon dépôt distant je vais utiliser "git push". 
-trolololo this is very funny what i m doing hihi
-kocham polske bye 
-#séance 3
