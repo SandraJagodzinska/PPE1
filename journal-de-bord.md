@@ -7,4 +7,4 @@ Ensuite, sur le site web Github j'ai créé un fichier "journal-de-bord.md".
 Puis, j'ai utilisé "git log" comme indiqué dans le consigne pour voir mon dernier commit. 
 Maintenant, je modifie mon fichier "journal-de-bord". En utilisant "git status", j'ai vérifié que git détecte bien des changements.
 
-##
+##HOW TO REVERT
