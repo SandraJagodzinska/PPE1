@@ -15,3 +15,6 @@ La commande revert nous renvois à la fonction insert du terminal, et par mépri
 
 ## Git II : mise en pratique 
 J'ai créé un tag de version finie de séance 2 il y a longtemps. Après j'étais bloque sur deuxième partie de TD, mais je reviens pour refaire tous pas-à-pas, car la pratique est essentiel pour bien apprendre des choses !
+I AM ERROR
+
+#séance 3
