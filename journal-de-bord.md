@@ -15,3 +15,5 @@ La commande revert nous renvois à la fonction insert du terminal, et par mépri
 
 ## Git II : mise en pratique 
 J'ai créé un tag de version finie de séance 2 il y a longtemps. Après j'étais bloque sur deuxième partie de TD, mais je reviens pour refaire tous pas-à-pas, car la pratique est essentiel pour bien apprendre des choses !
+Au début, j’ai ajouté le texte au journal-de-bord, j’ai fait un commit « i am error » et je l’ai poussé. Avec la commande git log je récupère l’identifiant SHA du commit poussé: commit 2e500d13e96d466ada63a44ed1e9730bd060501a.
+Ensuite, avec la commande git revert <commit>, où commit est soit un tag soit un id SHA du commit, je défais le commit déjà poussé. 
