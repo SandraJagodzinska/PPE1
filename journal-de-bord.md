@@ -24,5 +24,7 @@ Avant créé un tag il faut faire des commits et pousser!!
 J'ai créé un fichier oups.md dans lequel j'ai fait des choses qui ensuite sont commités. Quand j’ai fini mon travail, je dois retourner vers la version du tag "20221005-init". La commande doit satisfaire les contraintes suivantes : 
 -	je ne dois pas perdre les changements
 - les changements ne doivent pas être staged après le retour au tag 
+
 Alors j’utilise la commande git reset HEAD~ pour annuler le staging et ne pas perdre les changements. Reset –soft n'annule pas le staging et reset –hard supprime tous les changements que nous avons fait.
+
 À la fin, je fait un tag "version finie séance 3"
