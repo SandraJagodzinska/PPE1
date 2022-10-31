@@ -47,6 +47,7 @@ syntaxe tableau :
 • th : table header, une cellule d’entête (seulement la première ligne) 
 • td : table data, une cellule classique (toutes les lignes pas entête) 
 
+## LYNX
 ###J'ai rencontré des problèmes avec lynx qui n'a pas marché sur mon MacOS. j'ai créé un issue dans le git, mais après j'ai trouvé les commandes brew update et brew link lynx avec lesquelles j'ai résolu ce problème, alors j'ai fermé un issue avec un commentaire.
 Q : Une option permet de récupérer le contenu textuel (sans liens) d’une page pour l’afficher à l’écran. Laquelle et comment la chercher ?
 - afficher à l'ecran = standard output
@@ -55,3 +56,13 @@ Q : Une option permet de récupérer le contenu textuel (sans liens) d’une pag
 - lynx --help | egrep "list" => -nolist           disable the link list feature in dumps (off)
 
 alors la commande : lynx -dump -nolist https://pl.wikipedia.org/wiki/Polska
+
+## wget et cURL
+ils permettent de récupérer des pages web sans passer par un navigateur. wget écrit dans un fichier et cURL écrit dans le terminal.
+HTTP - protocole de communication entre un client et un serveur pour transmettre pages etc.
+- 1xx : information
+- 200 : réussite
+- 3xx : redirections
+- 4xx : erreurs du client
+- 5xx : erreurs du serveur
+interesting curl : curl -iL www.youtube.com => HTTP/1.1 301 Moved Permanently; Content-Type: application/binary
