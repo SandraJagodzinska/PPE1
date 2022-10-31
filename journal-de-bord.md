@@ -33,3 +33,25 @@ Alors j’utilise la commande git reset HEAD~ pour annuler le staging et ne pas 
 J'ai recopié le script de diapos Shell (mais pas bêtement - j'ai écrit tous à la main en analysant tous les choses - j'ai écrit des commentaires pour m'expliquer des choses pas claires).
 Au début, mon script n'a pas marché parce que dans le script j'ai écrit if [[ $LINE =∼ "^https?://" ]], apparament si on recherche les expressions avec le bash il faut pas mettre "". 
 J'ai appris comment utiliser command read et ses differents fonctionalités, comment créer une boucle en bash et comment terminer la boucle s'il y a un erreur. 
+
+## HTML
+syntaxe : 
+<html> 
+	<head>...</head>  #l’entête du fichier (avec les métadonnées qui contient beaucoup d’informations, nous allons s'interesser au charset - encodage du texte)
+	<body>...</body>  #le corps du fichier (avec le contenu textuel et la structure)
+</html>
+J'ai créé un premier code html cat_test en copiant et en analysant le code des diapos, ensuite j'ai créé le tableau.
+syntaxe tableau :
+• table : la balise racine du tableau
+• tr : table row
+• th : table header, une cellule d’entête (seulement la première ligne) 
+• td : table data, une cellule classique (toutes les lignes pas entête) 
+
+###J'ai rencontré des problèmes avec lynx qui n'a pas marché sur mon MacOS. j'ai créé un issue dans le git, mais après j'ai trouvé les commandes brew update et brew link lynx avec lesquelles j'ai résolu ce problème, alors j'ai fermé un issue avec un commentaire.
+Q : Une option permet de récupérer le contenu textuel (sans liens) d’une page pour l’afficher à l’écran. Laquelle et comment la chercher ?
+- afficher à l'ecran = standard output
+- lynx --help | egrep "(standard output|stdout)" => with -dump, format output as with -traversal, but to stdout
+- lynx --help | egrep "links" => with -dump, forces it to show only the list of links (off) => je veux le contraire
+- lynx --help | egrep "list" => -nolist           disable the link list feature in dumps (off)
+
+alors la commande : lynx -dump -nolist https://pl.wikipedia.org/wiki/Polska
