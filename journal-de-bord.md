@@ -28,3 +28,8 @@ J'ai créé un fichier oups.md dans lequel j'ai fait des choses qui ensuite sont
 Alors j’utilise la commande git reset HEAD~ pour annuler le staging et ne pas perdre les changements. Reset –soft n'annule pas le staging et reset –hard supprime tous les changements que nous avons fait.
 
 À la fin, je fait un tag "version finie séance 3"
+
+## script validation URL
+J'ai recopié le script de diapos Shell (mais pas bêtement - j'ai écrit tous à la main en analysant tous les choses - j'ai écrit des commentaires pour m'expliquer des choses pas claires).
+Au début, mon script n'a pas marché parce que dans le script j'ai écrit if [[ $LINE =∼ "^https?://" ]], apparament si on recherche les expressions avec le bash il faut pas mettre "". 
+J'ai appris comment utiliser command read et ses differents fonctionalités, comment créer une boucle en bash et comment terminer la boucle s'il y a un erreur. 
