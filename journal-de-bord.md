@@ -66,3 +66,8 @@ HTTP - protocole de communication entre un client et un serveur pour transmettre
 - 4xx : erreurs du client
 - 5xx : erreurs du serveur
 interesting curl : curl -iL www.youtube.com => HTTP/1.1 301 Moved Permanently; Content-Type: application/binary
+
+##urls_exercices
+exercice 2. pour récupérer que le début de ce que curl retourne il faut utiliser curl --head
+exercice 3??
+exercice 4. curl --head <url> | egrep "charset"
