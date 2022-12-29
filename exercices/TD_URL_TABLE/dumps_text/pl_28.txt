@@ -275,7 +275,7 @@ Od wielu lat wspieramy na drodze do rodzicielstwa.
 
 Umów się na wizytę online lub zadzwoń: 799-399-499
 
-   Wybierz miasto [E-wizyta__________________________]
+   Wybierz miasto [E-wizyta________________________]
    Wybierz specjalnośćwybierz__________________________..]
    Wybierz specjalistę Pokaż wszystkich__________________..]
    Problem [Pokaż wszystkich____________________.]
@@ -454,7 +454,7 @@ Zapraszamy do kontaktu!
 
 Umów się na wizytę online lub zadzwoń: 799-399-499
 
-   Wybierz miasto [E-wizyta__________________________]
+   Wybierz miasto [E-wizyta________________________]
    Wybierz specjalnośćwybierz__________________________..]
    Wybierz specjalistę Pokaż wszystkich__________________..]
    Problem [Pokaż wszystkich____________________.]
@@ -491,40 +491,42 @@ BYDGOSZCZ
 POZNAJ OPINIE NASZYCH PACJENTÓW
 
    ﻿
-   mgr Beata Stelmaszczyk-Pustelnik
+   lek. Aleksandra Jaszczak
 
-mgr Beata Stelmaszczyk-Pustelnik
+lek. Aleksandra Jaszczak
 
-   Psychoterapeuta
+   Psychiatra dzieci i młodzieży
    Umów wizytę
 
-   Ewa 2022-05-13
+   Katarzyna 2021-11-25
 
-   Oceniam na 5
+   Bardzo miła i rzetelna Pani doktor. Potrafi słuchać i nie spieszy się.
+   Po raz pierwszy czułam, że ktoś mnie rozumie i nie bagatelizuje tego co
+   mówię.
    ﻿
-   dr n.med. Magdalena Jaszke-Psonka
+   dr n.med. Marta Bogotko
 
-dr n.med. Magdalena Jaszke-Psonka
+dr n.med. Marta Bogotko
+
+   Neurolog
+   Umów wizytę
+
+   Mama 2021-01-15
+
+   Bardzo rzetelna i kompetentna Pani doktor. Wizyta przebiegła szybko i
+   fachowo. Pani doktor zapoznała się z wcześniejszą dokumentacją,
+   dokładnie zbadała dziecko, wszystko wyjaśniła, odpowied...
+   ﻿
+   lek. Sylwia Banaczyk-Miłońska
+
+lek. Sylwia Banaczyk-Miłońska
 
    Psychiatra
    Umów wizytę
 
-   Joanna 2022-02-08
+   Juliusz 2021-12-29
 
    Oceniam na 5
-   ﻿
-   lek. Małgorzata Rydzewska (Wołowik)
-
-lek. Małgorzata Rydzewska (Wołowik)
-
-   Psychiatra
-   Umów wizytę
-
-   Aneta O. 2022-05-09
-
-   Pani Doktor bardzo miła i rzeczowa. Przeprowadziła obszerny wywiad.
-   Wszystko dokładnie mi wytłumaczyła i odpowiedziała na moje pytania i
-   wątpliwości. Serdecznie polecam
 
 Psychomedic Warszawa
 
@@ -641,6 +643,11 @@ Psychomedic POZNAŃ
     PSYCHOMEDIC POZNAŃ
     ul. Kazimierza Wielkiego 5 lok. U5
     e-mail: poznan@psychomedic.pl
+
+
+    PSYCHOMEDIC GŁOGOWSKA
+    ul. Głogowska 146 lok. U1
+    e-mail: glogowska@psychomedic.pl
 
 
 Psychomedic WROCŁAW

@@ -30,7 +30,7 @@
 
    Więcej
    (BUTTON) Warszawa
-   1°
+   9°
      * (BUTTON) Biała Podlaska
      * (BUTTON) Białystok
      * (BUTTON) Bielsko-Biała
@@ -150,7 +150,7 @@
 
    Wspieraj naszą misję WSPOMÓŻ NAS
    (BUTTON) Warszawa
-   1°
+   9°
      * (BUTTON) Biała Podlaska
      * (BUTTON) Białystok
      * (BUTTON) Bielsko-Biała
@@ -317,11 +317,6 @@ Adopcja. Bać się zaburzeń psychicznych?
    nieskończenie prostego szczęścia bycia kochanym przez dziecko, zapłacić
    nawet wysoką cenę setek nieprzespanych nocy, potu i łez, aby doznać w
    końcu wdzięczności i zobaczyć po latach dojrzały owoc naszego trudu.
-
-DEON.PL POLECA
-
-Wybierz plakat z przesłaniem, które najbardziej ci odpowiada. Zobacz nasze
-propozycje!
 
    Na przeszkodzie stoi najczęściej smutna i frustrująca choroba -
    niepłodność. W pełni spełnia definicję choroby według WHO, choć ta
@@ -511,23 +506,23 @@ Tematy w artykule
 
 Więcej w: Dziecko
 
+   Od razu poznałam, że mój syn ma autyzm. Tego nie da się pomylić z
+   niczym innym
+
+Od razu poznałam, że mój syn ma autyzm. Tego nie da się pomylić z niczym
+innym
+
+   Dziecko
+   "Chciałbym być tak ważny, jak ich telefon". Poruszające notatki z
+   terapii dzieci
+
+"Chciałbym być tak ważny, jak ich telefon". Poruszające notatki z terapii
+dzieci
+
+   Dziecko
    Naukowcy: picie w czasie ciąży zmienia strukturę mózgu dziecka
 
 Naukowcy: picie w czasie ciąży zmienia strukturę mózgu dziecka
-
-   Dziecko
-   "Nie dałbym rady robić tego, co Pani". Czego nie mówić rodzicom chorych
-   dzieci?
-
-"Nie dałbym rady robić tego, co Pani". Czego nie mówić rodzicom chorych
-dzieci?
-
-   Dziecko
-   Niepokojąco pogarsza się stan zdrowia polskich dzieci. Zwłaszcza
-   ośmiolatki poważnie zagrożone
-
-Niepokojąco pogarsza się stan zdrowia polskich dzieci. Zwłaszcza ośmiolatki
-poważnie zagrożone
 
    Dziecko
 
@@ -555,59 +550,63 @@ Podziel się linkiem do artykułu ze znajomym
 
 Wybrane dla Ciebie
 
-Nieznany list Karola Wojtyły rzuca nowe światło na jego stosunek do księży
-pedofilów
+Abp Ryś o praprababce Jezusa z Betlejem, która wbrew wszystkiemu postanowiła
+tam zamieszkać
 
-   Nieznany list Karola Wojtyły rzuca nowe światło na jego stosunek do
-   księży pedofilów
+   Abp Ryś o praprababce Jezusa z Betlejem, która wbrew wszystkiemu
+   postanowiła tam zamieszkać
 
-Tajemnicza chmura-gołąb pojawiła się nad Rosją. „Może to zwiastun rychłego
-pokoju”
+Pogorszył się stan zdrowia Benedykta XVI. Papieża seniora odwiedził
+Franciszek
 
-   Tajemnicza chmura-gołąb pojawiła się nad Rosją. „Może to zwiastun
-   rychłego pokoju”
+   Pogorszył się stan zdrowia Benedykta XVI. Papieża seniora odwiedził
+   Franciszek
 
-Trwa tylko 2 minuty i pokazuje, o czym nie wolno zapomnieć w Boże Narodzenie
+W Finlandii doszczętnie spłonął kościół. W środku trwała msza, w której
+uczestniczyło około 30 osób
 
-   Trwa tylko 2 minuty i pokazuje, o czym nie wolno zapomnieć w Boże
-   Narodzenie
+   W Finlandii doszczętnie spłonął kościół. W środku trwała msza, w której
+   uczestniczyło około 30 osób
 
-Nie żyje ks. prof. Antoni Siemianowski, wybitny filozof i wykładowca
+Ksiądz zaczął rapować na pasterce. Nagranie stało się hitem TikToka
 
-   Nie żyje ks. prof. Antoni Siemianowski, wybitny filozof i wykładowca
+   Ksiądz zaczął rapować na pasterce. Nagranie stało się hitem TikToka
 
-Zakaz działalności publicznej dla o. Marko Ivana Rupnika SJ
+Nie żyje słynny piłkarz Andrzej Iwan. Wywalczył z Polską srebro na
+mistrzostwach świata
 
-   Zakaz działalności publicznej dla o. Marko Ivana Rupnika SJ
+   Nie żyje słynny piłkarz Andrzej Iwan. Wywalczył z Polską srebro na
+   mistrzostwach świata
 
 {{ item.title }}
 
 Najczęściej czytane
 
    1
-   Tajemnicza chmura-gołąb pojawiła się nad Rosją. „Może to zwiastun
-   rychłego pokoju”
+   Pogorszył się stan zdrowia Benedykta XVI. Papieża seniora odwiedził
+   Franciszek
    1 komentarzy
    2
-   Trwa tylko 2 minuty i pokazuje, o czym nie wolno zapomnieć w Boże
-   Narodzenie
-   0 komentarzy
+   W Finlandii doszczętnie spłonął kościół. W środku trwała msza, w której
+   uczestniczyło około 30 osób
+   3 komentarzy
    3
-   Nie żyje ks. prof. Antoni Siemianowski, wybitny filozof i wykładowca
-   0 komentarzy
+   Ksiądz zaczął rapować na pasterce. Nagranie stało się hitem TikToka
+   12 komentarzy
    4
-   Zakaz działalności publicznej dla o. Marko Ivana Rupnika SJ
+   Nie żyje słynny piłkarz Andrzej Iwan. Wywalczył z Polską srebro na
+   mistrzostwach świata
    0 komentarzy
    5
-   Gdy Kościół zdradza Jezusa
-   2 komentarzy
+   Nie narażajmy praktyk pokutnych na śmieszność
+   3 komentarzy
    6
-   Zmarła aktorka, laureatka nagrody Emmy, Kirstie Alley. Miała 71 lat
+   Benedykt XVI: Bóg jest obecny nawet w mrocznym momencie, nie opuszcza
    0 komentarzy
    7
-   Redemptoryści o słowach o. Rydzyka: to osobisty komentarz do sytuacji
-   bpa Napierały
-   3 komentarzy
+   Abp Marx o stanie zdrowia Benedykta XVI: sytuacja jest z pewności�
+   bardzo poważna, jesteśmy zjednoczeni w modlitwie
+   1 komentarzy
 
 Bądź na bieżąco
 
@@ -631,11 +630,28 @@ i dołącz do rodziny Deon.pl
 
 Rekomendowane dla Ciebie / Polecane artykuły
 
-   "Nie dałbym rady robić tego, co Pani". Czego nie mówić rodzicom chorych
-   dzieci?
+   Od razu poznałam, że mój syn ma autyzm. Tego nie da się pomylić z
+   niczym innym
 
-"Nie dałbym rady robić tego, co Pani". Czego nie mówić rodzicom chorych
-dzieci?
+Od razu poznałam, że mój syn ma autyzm. Tego nie da się pomylić z niczym
+innym
+
+   Inteligentne Życie
+   "Chciałbym być tak ważny, jak ich telefon". Poruszające notatki z
+   terapii dzieci
+
+"Chciałbym być tak ważny, jak ich telefon". Poruszające notatki z terapii
+dzieci
+
+   Inteligentne Życie
+   Najwspanialsza pierwsza randka na świecie
+
+Najwspanialsza pierwsza randka na świecie
+
+   Dziecko
+   "Nie bij mnie" – skutki bicia dzieci przez rodziców są nieodwracalne
+
+"Nie bij mnie" – skutki bicia dzieci przez rodziców są nieodwracalne
 
    Inteligentne Życie
    "Nie pytaj, jak było w szkole. Nie krzycz. I pozwól się czasem
@@ -644,18 +660,16 @@ dzieci?
 "Nie pytaj, jak było w szkole. Nie krzycz. I pozwól się czasem przytulić"
 
    Dziecko
-   "Droga mamusiu, czy mogę cię na chwilę obudzić?" Ten list dziecka
-   wzrusza każdego rodzica
+   15 porad jak najgorzej wychować własne dziecko
 
-"Droga mamusiu, czy mogę cię na chwilę obudzić?" Ten list dziecka wzrusza
-każdego rodzica
+15 porad jak najgorzej wychować własne dziecko
 
    Dziecko
-   Najważniejsze jest to, by nie karmić dzieci lękiem
+   Pedagogika "mądrej miłości" Korczaka
 
-Najważniejsze jest to, by nie karmić dzieci lękiem
+Pedagogika "mądrej miłości" Korczaka
 
-   Inteligentne Życie
+   Dziecko
    "Dziecko ma myśleć, co robi". Psycholog o tym, jak radzić sobie z
    nieposłusznym dzieckiem
 
@@ -663,23 +677,6 @@ Najważniejsze jest to, by nie karmić dzieci lękiem
 nieposłusznym dzieckiem
 
    Inteligentne Życie
-   Kto przytuli porzucone dziecko?
-
-Kto przytuli porzucone dziecko?
-
-   Dziecko
-   Trzy style wychowania. Który jest najlepszy?
-
-Trzy style wychowania. Który jest najlepszy?
-
-   Dziecko
-   Uścisk, który zabija. Niebezpieczna zabawka Huggy Wuggy bardzo
-   popularna wśród dzieci
-
-Uścisk, który zabija. Niebezpieczna zabawka Huggy Wuggy bardzo popularna
-wśród dzieci
-
-   Wiadomości ze świata
 
 {{ item.title }}
 

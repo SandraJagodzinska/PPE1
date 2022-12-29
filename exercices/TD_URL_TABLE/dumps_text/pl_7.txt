@@ -27,7 +27,7 @@
      * Załóż Profil zaufany
      * Baza wiedzy
      * Serwis Służby Cywilnej
-     * flaga  Сайт для громадян України – Serwis dla obywateli Ukrainy
+     * flaga  Сайт для громадян України –Serwis dla obywateli Ukrainy
 
    (BUTTON) Zamknij menu GOV.pl
 
@@ -35,9 +35,8 @@
 
    ____________________ (BUTTON) Szukaj
 
-   przejdź do wyszukiwarki Logowanie do paneluZaloguj Unia Europejska
-   Logotyp - 12 żółtych gwiazdek tworzących okrąg na granatowym tle, pod
-   nim napis Unia Europejska
+   przejdź do wyszukiwarki Logowanie do paneluZaloguj Logotyp Unii
+   Europejskiej
 
      * Przejdź do serwisu Biuletyn Informacji Publicznej Ministerstwo
        Rodzinyi Polityki Społecznej Logo Biuletynu Informacji Publicznej
@@ -46,6 +45,7 @@
    Zmień język PL
      * EN - English
 
+   Ministerstwo Rodziny i Polityki Społecznej
    MENU
      * O ministerstwie Wstecz
           + Ministerstwo Rodziny i Polityki Społecznej
@@ -73,7 +73,7 @@
           + Osoby z niepełnosprawnościami
           + Koordynacja Systemów Zabezpieczenia Społecznego
           + Fundusze Europejskie
-          + Ekonomia społeczna i solidarna
+          + Ekonomia społeczna
           + Zatrudnienie socjalne
           + Społeczne prawa człowieka
           + Aplikacja do mierzenia nierówności płacowych
@@ -314,6 +314,8 @@ ADRES
     NIP 5262895101
     Regon 015725935
 
+KONTAKT
+
    Skontaktuj się z nami
    +48222500108
 
@@ -366,11 +368,7 @@ stopka gov.pl
    utworów zależnych 3.0 Polska (CC BY-NC-ND 3.0 PL), o ile nie jest to
    stwierdzone inaczej.
    Logo Funduszy Europejskich biało-czerwona flaga polska obok napis
-   Rzeczpospolita Polska Logotyp z lewej strony napis Unia Europejska
-   Logotyp. Europejski Fundusz Rozwoju Regionalnego. po prawej strony na
-   granatowym tle 12 żółtych gwiazdek tworzących okrąg flaga Unii
-   Europejskiej z lewej strony napis Unia Europejska Logotyp. Europejski
-   Fundusz Rozwoju Regionalnego. po prawej strony na granatowym tle 12
-   żółtych gwiazdek tworzących okrąg flaga Unii Europejskiej
+   Rzeczpospolita Polska Logotyp Logotyp Unii Europejskiej Logotyp Unii
+   Europejskiej
 
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TZ2N3NZ

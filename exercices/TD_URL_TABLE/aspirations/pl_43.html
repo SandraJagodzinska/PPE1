@@ -76,6 +76,21 @@ var _gaq = _gaq || [];
 	<div id="header-title">
     <a href="/"><span>Biuro Opieki nad Dziećmi i Rodziną</span></a>
   </div>
+  <div role="search" id="navigation-search" class="mobile-hidden">
+    <form method="get" action="https://search.its.ny.gov/search/search.html" id="search">
+    </form><form method="get" action="/search/" id="search">
+      <div class="nav-search" role="search">
+        <input type="hidden" tabindex="-1" name="as_sitesearch" value="ocfs.ny.gov" />
+        <input type="hidden" tabindex="-1" name="client" value="default_frontend" />
+        <input type="hidden" tabindex="-1" name="output" value="xml_no_dtd" />
+        <input type="hidden" tabindex="-1" name="proxystylesheet" value="default_frontend" />
+        <input type="hidden" tabindex="-1" name="sort" value="date%3AD%3AL%3Ad1" />
+        <input type="hidden" tabindex="-1" name="site" value="default_collection" />
+        <label for="search-box" class="reader-only">Wprowadź wyszukiwane hasło w polu Szukaj i naciśnij Enter lub naciśnij przycisk Szukaj.</label>
+        <input type="search" id="search-box" aria-label="Search Field" name="q" maxlength="250" placeholder="Szukaj OCFS" value="" class="search-query" /><button type="submit" id="search-button" aria-label="Search Button"><i class="fa fa-search"><span class="reader-only">Szukaj</span></i></button>
+      </div>
+    </form>
+  </div>
 
   <div id="header-nav">
     <nav id="header-nav-block" class="header-nav" aria-label="Main Navigation Menu">

@@ -11,6 +11,8 @@ Dostępna nawigacja i informacje
    NYS Stopka
 
    Biuro Opieki nad Dziećmi i Rodzin�
+   Wprowadź wyszukiwane hasło w polu Szukaj i naciśnij Enter lub naciśnij
+   przycisk Szukaj. ____________________ (BUTTON) Szukaj
    Menu nawigacji
      * O OCFS
      * Opieka nad dzieckiem

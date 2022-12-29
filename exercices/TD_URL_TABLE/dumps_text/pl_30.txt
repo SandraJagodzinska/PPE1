@@ -49,10 +49,13 @@ Adopcja dziecka krok po kroku
 
    Imię i nazwisko
    ________________________________________
+
    Numer telefonu
    ________________________________________
+
    E-mail
    ________________________________________
+
    Krótki opis sprawy
 
    ________________________________________
@@ -65,8 +68,10 @@ Adopcja dziecka krok po kroku
    ________________________________________
    ________________________________________
    ________________________________________
+
    [ ] Zgoda na przetwarzanie danych osobowych wyłącznie w celu umówienia
    rozmowy
+
    WYŚLIJ
 
    Δ

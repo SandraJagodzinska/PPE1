@@ -39,7 +39,6 @@ Reklama
           + Rafał Woś
           + Piotr Zaremba
      * Autorzy
-          + Łukasz Aftański
           + Paweł Basiak
           + Michał Blus
           + Natalia Borzuta
@@ -54,6 +53,7 @@ Reklama
           + Bartosz Kołodziejczyk
           + Dawid Kryska
           + Jakub Krzywiecki
+          + Mateusz Kucharczyk
           + Michał Lao
           + Tomasz Lejman
           + Grzegorz Lepak
@@ -80,7 +80,6 @@ Reklama
           + Aleksandra Wieczorek
           + Piotr Witwicki
           + Dawid Zdrojewski
-          + Aleksander Żuławnik
      * Zielona Interia
      * Zdjęcia
           + Kraj
@@ -134,7 +133,6 @@ Reklama
                o Rafał Woś
                o Piotr Zaremba
           + Autorzy
-               o Łukasz Aftański
                o Paweł Basiak
                o Michał Blus
                o Natalia Borzuta
@@ -149,6 +147,7 @@ Reklama
                o Bartosz Kołodziejczyk
                o Dawid Kryska
                o Jakub Krzywiecki
+               o Mateusz Kucharczyk
                o Michał Lao
                o Tomasz Lejman
                o Grzegorz Lepak
@@ -175,7 +174,6 @@ Reklama
                o Aleksandra Wieczorek
                o Piotr Witwicki
                o Dawid Zdrojewski
-               o Aleksander Żuławnik
           + Zielona Interia
           + Zdjęcia
                o Kraj
@@ -230,7 +228,6 @@ Reklama
           + Rafał Woś
           + Piotr Zaremba
      * Autorzy
-          + Łukasz Aftański
           + Paweł Basiak
           + Michał Blus
           + Natalia Borzuta
@@ -245,6 +242,7 @@ Reklama
           + Bartosz Kołodziejczyk
           + Dawid Kryska
           + Jakub Krzywiecki
+          + Mateusz Kucharczyk
           + Michał Lao
           + Tomasz Lejman
           + Grzegorz Lepak
@@ -271,7 +269,6 @@ Reklama
           + Aleksandra Wieczorek
           + Piotr Witwicki
           + Dawid Zdrojewski
-          + Aleksander Żuławnik
      * Zielona Interia
      * Zdjęcia
           + Kraj
@@ -309,9 +306,6 @@ Adopcja w Polsce
 Jakie są rodzaje adopcji?
 
    Adopcja w Polsce
-
-   Udostępnij
-   Komentuj
 
    W Polsce wyróżnia się trzy formy przysposobienia dziecka. Z terminem
    "przysposobienie" spotkamy się we wszystkich oficjalnych dokumentach
@@ -385,68 +379,69 @@ Polecamy
 
 Dziś w Interii
 
-     * W nocy Rosjanie ostrzelali Ukrainę przy użyciu irańskich dronów
-       W nocy Rosjanie ostrzelali Ukrainę przy użyciu irańskich dronów
-       wydarzenia
-     * Rośliny obowiązkowe w domu na Święta Bożego Narodzenia. Choinka to
-       nie wszystko
-       Rośliny obowiązkowe w domu na Święta Bożego Narodzenia. Choinka to
-       nie wszystko
-       Kobieta
-     * Co oznacza "essa"? Oto zwycięzca Młodzieżowego Słowa Roku 2022
-       Co oznacza "essa"? Oto zwycięzca Młodzieżowego Słowa Roku 2022
-       wydarzenia
-     * Moda damska – trendy zima 22/23
-       Moda damska – trendy zima 22/23
-       Kobieta
-     * Sfrustrowana partnerka Cristiano Ronaldo na meczu. Wideo daje do
-       myślenia
-       Sfrustrowana partnerka Cristiano Ronaldo na meczu. Wideo daje do
-       myślenia
-       Sport
-     * Wielki nieobecny MŚ skomentował porażkę Hiszpanii. Tego nikt się
-       nie spodziewał
-       Wielki nieobecny MŚ skomentował porażkę Hiszpanii. Tego nikt się
-       nie spodziewał
-       Sport
-     * Państwa UE "zwracają" nam migrantów. "Dominują dwie narodowości"
-       Państwa UE "zwracają" nam migrantów. "Dominują dwie narodowości"
-       wydarzenia
-     * Jacek Kurski ma nową pracę. Z TVP do Banku Światowego
-       Jacek Kurski ma nową pracę. Z TVP do Banku Światowego
-       Biznes
-     * To Bayern Monachium jest winny klęski Niemiec? Podziały w kadrze
-       To Bayern Monachium jest winny klęski Niemiec? Podziały w kadrze
-       Sport
-     * Nie żyje Roman Załuski. Wyreżyserował kultowe filmy, w tym
-       "Kogel-mogel" i "Och, Karol"
-       polsat news
-     * Rozpoczynamy świąteczne bonusowanie w Grupie Murapol! 255 mieszkań
-       w promocji w 13 miastach!
-       Rozpoczynamy świąteczne bonusowanie w Grupie Murapol! 255 mieszkań
-       w promocji w 13 miastach!
-       Biznes
-     * Zatrzymania w 11 niemieckich landach. "Planowali zamach stanu"
-       Zatrzymania w 11 niemieckich landach. "Planowali zamach stanu"
-       wydarzenia
-     * 130 km/h w mieście i stracisz auto. Nowy sposób na ”chłopców
-       wyścigowców”
-       130 km/h w mieście i stracisz auto. Nowy sposób na ”chłopców
-       wyścigowców”
-       Motoryzacja
-     * Nadchodzi nowy kosmiczny horror - Greyhill Incident
-       Nadchodzi nowy kosmiczny horror - Greyhill Incident
-       Gry
-     * Jan Nowicki nie żyje. Aktor miał 83 lata
-       Jan Nowicki nie żyje. Aktor miał 83 lata
+     * "Milionerzy". Co znaczy wyrażenie "powetować straty"?
+       "Milionerzy". Co znaczy wyrażenie "powetować straty"?
        pomponik.pl
-     * "M jak miłość": Jedna z postaci nie pojawi się na serialowej
-       Wigilii? Ten komentarz sporo zdradza!
-       "M jak miłość": Jedna z postaci nie pojawi się na serialowej
-       Wigilii? Ten komentarz sporo zdradza!
+     * "Wyprzedził swoją epokę". Pele opłakiwany przez świat futbolu
+       "Wyprzedził swoją epokę". Pele opłakiwany przez świat futbolu
+       Sport
+     * Brazylia żegna Pele. "Legenda, która będzie wieczna"
+       Brazylia żegna Pele. "Legenda, która będzie wieczna"
+       Sport
+     * Wielkie zwycięstwo Graneruda. Pomogły mu... świąteczne ciastka od
+       mamy Wielkie zwycięstwo Graneruda. Pomogły mu... świąteczne ciastka
+       od mamy
+       Sport
+     * Zmarł Pele. Gary Lineker: Będzie miał piłkarską nieśmiertelność
+       Zmarł Pele. Gary Lineker: Będzie miał piłkarską nieśmiertelność
+       Sport
+     * Niemcy: Mężczyzna zasnął za kierownicą Tesli. Przed nim jechała
+       policja
+       polsat news
+     * Belgia. Ceny energii najniższe od 31 grudnia 2021 roku
+       Belgia. Ceny energii najniższe od 31 grudnia 2021 roku
+       Biznes
+     * Policja informuje, na co zwrócić uwagę przy zakupie fajerwerków
+       polsat news
+     * Arłukowicz atakuje Niedzielskiego ws. leków. "Pan minister się
+       połapał"
+       Arłukowicz atakuje Niedzielskiego ws. leków. "Pan minister się
+       połapał"
+       wydarzenia
+     * Pele nie żyje. Sylwetka "Króla futbolu"
+       polsat sport
+     * Pele i jego niesamowita historia. Od pucybuta do króla futbolu
+       Pele i jego niesamowita historia. Od pucybuta do króla futbolu
+       Sport
+     * Pele nie żyje. Legenda futbolu umierała w otoczeniu najbliższych
+       Pele nie żyje. Legenda futbolu umierała w otoczeniu najbliższych
+       pomponik.pl
+     * Kolejne cudowne dziecko futbolu. „Widzieliśmy już co robi na
+       treningach”
+       Kolejne cudowne dziecko futbolu. „Widzieliśmy już co robi na
+       treningach”
+       Sport
+     * Granerud nie krył wściekłości! Dostał taką wiadomość po pierwszej
+       serii
+       Granerud nie krył wściekłości! Dostał taką wiadomość po pierwszej
+       serii
+       Sport
+     * "Sędzia Anna Maria Wesołowska": Prawnik z serialu oszukiwał
+       klientów
+       "Sędzia Anna Maria Wesołowska": Prawnik z serialu oszukiwał
+       klientów
        Świat seriali
+     * Po konkursie Horngacher dopadł do Żyły. Tajemnicza wypowiedź
+       skoczka
+       Po konkursie Horngacher dopadł do Żyły. Tajemnicza wypowiedź
+       skoczka
+       Sport
 
    Raporty specjalne
+     * Sylwester Polsatu 2022/23
+       Sylwester Polsatu 2022/23
+     * Boże Narodzenie 2022
+       Boże Narodzenie 2022
      * Rok szkolny 2022/2023
        Rok szkolny 2022/2023
      * Wakacje Kredytowe
@@ -459,29 +454,28 @@ Dziś w Interii
        Matura 2022
      * Wojna na Ukrainie
        Wojna na Ukrainie
-     * Polski Ład
-       Polski Ład
-     * Koronawirus
-       Koronawirus
 
 Rekomendacje
 
+     * Co to jest alert RCB i kto wysyła wiadomości SMS?
      * Samoloty prezydenta Polski. Czym lata Andrzej Duda?
      * Testy na COVID-19: PCR, antygenowy, serologiczny
-     * Rolety - w poszukiwaniu cienia
 
+     * Rolety - w poszukiwaniu cienia
+       Rolety - w poszukiwaniu cienia
+       Najlepsze sposoby na zapewnienia cienia wDomu
      * Fakty
        Fakty
        Najnowsze wiadomości z kraju i świata. Szybko, wnikliwie,
        rzetelnie.
+     * Jaka prędkość internetu domowego jest wystarczająca?
+       Jaka prędkość internetu domowego jest wystarczająca?
      * Glukoneogeneza - synteza glukozy
        Glukoneogeneza - synteza glukozy
      * Justyna Kowalczyk
        Justyna Kowalczyk
        Justyna Kowalczyk - mistrzyni i medalistka olimpijska w biegach
        narciarskich
-     * Co to jest alert RCB i kto wysyła wiadomości SMS?
-       Co to jest alert RCB i kto wysyła wiadomości SMS?
 
 Reklama
 

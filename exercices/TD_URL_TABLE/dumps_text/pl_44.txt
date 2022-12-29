@@ -1,6 +1,6 @@
    #Łapa Świata - RSS
 
-
+   top of page
    Ta witryna została zaprojektowana za pomocą kreatora
    .com
    . Stwórz swoją witrynę już dziś.Zacznij Teraz
@@ -184,9 +184,12 @@ Adoptuj, nie kupuj!
    (BUTTON) (BUTTON) (BUTTON) (BUTTON)
      * Pieskie życie
 
+   Post: Blog2 Post
 
 Gotowe zestawy do Nosework
 
 Blog z psimi podróżami
 
 Polityka prywatności
+
+   bottom of page

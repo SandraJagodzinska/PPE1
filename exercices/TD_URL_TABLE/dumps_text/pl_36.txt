@@ -51,10 +51,10 @@ Adopcja a choroby psychiczne w rodzinie
 
 Przeczytaj również
 
-     * testy Testy owulacyjne – który najlepszy?
-     * soczewica Superfood, czyli więcej niż jedzenie
-     * rodzina Becikowe – jak dostać 1000 zł na dziecko?
-     * Szyjka macicy w ciąży – długość, kontrola, skracanie…
+     * histeroskopia1 Jak przygotować się do histeroskopii
+     * bolesne_miesiączki1 Naturalne sposoby na bolesne miesiączki
+     * kobieta w ciąży w samochodzi Pasy bezpieczeństwa w ciąży
+     * 9400041425_bbefae37c6_z Bank spermy- kompedium wiedzy
 
    Formalności związane z adopcją to jeden z tych czynników, które
    niejednokrotnie odstraszają pary i powodują odsunięcie w czasie decyzji
@@ -178,18 +178,18 @@ Choroby psychiczne w rodzinie
    Print Friendly
 
    Pozostałe artykuły w kategorii: Niepłodność - aspekt emocjonalny
-     * posiew
-       Kiedy in vitro się nie udało…
      * 3226973322_a2214b8ba0_z
        Świadoma bezdzietność
-     * 4387734557_35182d868a_b
-       Ciąża znajomych – jak sobie z nią poradzić?
+     * posiew
+       Kiedy in vitro się nie udało…
      * 16434341092_b66a51e591_z
        Złość się!
-     * test
-       Czym inni rodzice irytują bezdzietnych?
+     * 4387734557_35182d868a_b
+       Ciąża znajomych – jak sobie z nią poradzić?
      * dreamstime_8036473a
        Czy „walczyć” naprawdę trzeba wspólnie?
+     * test
+       Czym inni rodzice irytują bezdzietnych?
      * 4935849679_2eb57ebbc8_z
        Czy dziecko powstałe na drodze adopcji prenatalnej powinno posiadać
        informacje na temat swojej tożsamości?
@@ -216,7 +216,7 @@ Choroby psychiczne w rodzinie
      *
      *
      * Anuluj
-     * Phone
+     * Email
        ____________________
        This field is for validation purposes and should be left unchanged.
 
@@ -270,16 +270,16 @@ Ostatnio komentowane
 Forum
 
    Najnowsze wątki:
+     * Gdzie na wakacje
+       7 dni
      * Kosmetyki słoneczne
-       308 dni
+       330 dni
      * Sylwestrowa noc
-       361 dni
+       384 dni
      * Sposoby na jesienna chandrę
-       361 dni
+       384 dni
      * Sukienka do chrztu
-       361 dni
-     * Bieganie czy to nagłóg czy nowa moda?
-       361 dni
+       384 dni
 
    Wyróżnione wątki:
      __________________________________________________________________
@@ -289,15 +289,14 @@ Forum
 Blogi
 
    Najnowsze notki:
-     * Profile photo of wszywkalublin Odtrucie alkoholowe Katowice
-       Sosnowiec Śląsk 09.11.2022 wszywkalublin
-     * Profile photo of wszywkalublin Wszywka alkoholowa Esperal – Łuków –
-       Bilgoraj – Lubartów 18.10.2022 wszywkalublin
-     * Profile photo of wszywka-esperal Wszywka alkoholowa
-       Gdańsk-Awersyjna metoda leczenia alkoholizmu 13.10.2022
+     * Profile photo of afdholtilu Co warto wiedzieć o ryżu? 29.12.2022
+       afdholtilu
+     * Profile photo of wszywka-esperal Wszywka alkoholowa Esperal w
+       Szczecinku-Bezpieczeństwo a wszywka alkoholowa 28.12.2022
        wszywka-esperal
-     * Profile photo of wszywka-esperal Wszywka alkoholowa Esperal Rawa
-       Mazowiecka – Tomaszów Mazowiecki 08.10.2022 wszywka-esperal
+     * Profile photo of afdholtilu スタジオ見学の準備は？ 27.12.2022 afdholtilu
+     * Profile photo of afdholtilu Najlepsza więc będzie umiarkowana
+       aktywność 23.12.2022 afdholtilu
      __________________________________________________________________
 
    więcej blogów dodaj notkę
@@ -305,13 +304,13 @@ Blogi
 Wasze historie
 
    Najnowsze historie:
+     * Profile photo of afdholtilu スタジオ見学の準備は？ 27.12.2022 afdholtilu
+     * Profile photo of afdholtilu Nałóg alkoholowy jest to istotny oraz
+       dość popularny problem 21.12.2022 afdholtilu
      * Profile photo of Szukamrodzicow Mam problem :( 24.11.2016
        Szukamrodzicow
      * Profile photo of Szukamrodzicow Mam problem :( 24.11.2016
        Szukamrodzicow
-     * Profile photo of Szukamrodzicow Mam problem :( 24.11.2016
-       Szukamrodzicow
-     * Profile photo of Mini Upragniony stan 09.03.2016 Mini
      __________________________________________________________________
 
    więcej historii dodaj historię
@@ -331,7 +330,7 @@ Wasze historie
        __________________________________________________
        __________________________________________________
        __________________________________________________
-     * Name
+     * Email
        ____________________
        This field is for validation purposes and should be left unchanged.
 
