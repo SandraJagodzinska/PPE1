@@ -12,8 +12,6 @@ then
 	exit
 fi
 
-LC_ALL=C
-
 folder=$1 #dump-text ou contextes
 basename=$2 #langue qu'on etudie p.ex polonais -> pl
 lineno=1
@@ -36,7 +34,6 @@ do
 	content=$(cat $filepath)
 	
 	#ordre importe : & en premier sinon : < => &alt; => &amp ; lt
-	
 	
 	content=$(echo "$content" | sed -e 's/&/&amp/g') 
 	content=$(echo "$content" | sed -e 's/</&alt/g') 
