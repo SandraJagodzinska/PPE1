@@ -5,12 +5,14 @@
 # se lancera donc comme ca
 # $ ./programmes/itrameur_correction.sh
 
+LC_ALL=C
 
 if [[ $# -ne 2 ]]
 then 
 	echo "Deux arguments attendues: <dossier> <langue>"
 	exit
 fi
+
 
 folder=$1 #dump-text ou contextes
 basename=$2 #langue qu'on etudie p.ex polonais -> pl
